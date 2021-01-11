@@ -1,6 +1,6 @@
-# Your Flick Game Title Goes Here
+# Snail Luv.
 
 ## Description
 
-Description of the game goes here.
+Game/animation about two snails finding love. Made in flickgame.
 
